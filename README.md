@@ -1,5 +1,6 @@
-# pyton_flask
+# Pyton Flask
+
 Projeto de API com python utilizando Flask
 
 ### Dependencias
- - pip install flask
+ - pip install Flask
